@@ -1,6 +1,8 @@
 body {
   font-family: sans-serif;
   margin: 30px;
+  background-color: #f2f4f8; 
+  color: #333; 
 }
 
 input, button {
